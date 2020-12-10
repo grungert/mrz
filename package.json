@@ -1,5 +1,5 @@
 {
-  "name": "mrz",
+  "name": "mrz-test",
   "version": "3.1.1",
   "description": "Parse MRZ (Machine Readable Zone) from identity documents",
   "main": "./src/index.js",
